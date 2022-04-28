@@ -1,0 +1,38 @@
+body{
+    background-color:#d8d8d8;
+}
+h1{
+    color: #0092cc;
+    font-size: 12px;
+}
+p{
+    color: black;
+    font-size: 25px;
+}
+
+
+div{
+    display: inline-block;
+    background-color: #fff;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    margin-left: 40%;
+    margin-top: 20%;
+    
+    
+
+}
+a{
+    background-color: #0092cc;
+    color: white;
+    text-decoration: none;
+    padding: 5px 15px 5px 15px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+a:hover{
+    background-color: #69ccf3;
+}
